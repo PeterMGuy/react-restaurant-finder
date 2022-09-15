@@ -1,15 +1,15 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.87ab2ee5.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.74c31333.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.74c31333.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.ac2d5040.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.ac2d5040.js.map",
-  "static/css/2.c1042645.chunk.css": "/react-gh-pages/static/css/2.c1042645.chunk.css",
-  "static/js/2.0f68cd80.chunk.js": "/react-gh-pages/static/js/2.0f68cd80.chunk.js",
-  "static/js/2.0f68cd80.chunk.js.map": "/react-gh-pages/static/js/2.0f68cd80.chunk.js.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.3d6398e762a3e58229a0590db62cacd6.js": "/react-gh-pages/precache-manifest.3d6398e762a3e58229a0590db62cacd6.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js",
-  "static/css/2.c1042645.chunk.css.map": "/react-gh-pages/static/css/2.c1042645.chunk.css.map",
-  "static/css/main.87ab2ee5.chunk.css.map": "/react-gh-pages/static/css/main.87ab2ee5.chunk.css.map"
+  "main.css": "/react-restaurant-finder/static/css/main.87ab2ee5.chunk.css",
+  "main.js": "/react-restaurant-finder/static/js/main.ed8d214d.chunk.js",
+  "main.js.map": "/react-restaurant-finder/static/js/main.ed8d214d.chunk.js.map",
+  "runtime~main.js": "/react-restaurant-finder/static/js/runtime~main.c35b0e6a.js",
+  "runtime~main.js.map": "/react-restaurant-finder/static/js/runtime~main.c35b0e6a.js.map",
+  "static/css/2.c1042645.chunk.css": "/react-restaurant-finder/static/css/2.c1042645.chunk.css",
+  "static/js/2.0f68cd80.chunk.js": "/react-restaurant-finder/static/js/2.0f68cd80.chunk.js",
+  "static/js/2.0f68cd80.chunk.js.map": "/react-restaurant-finder/static/js/2.0f68cd80.chunk.js.map",
+  "index.html": "/react-restaurant-finder/index.html",
+  "precache-manifest.ad53b2f2ffa0c2c91e1b05b40a708b5d.js": "/react-restaurant-finder/precache-manifest.ad53b2f2ffa0c2c91e1b05b40a708b5d.js",
+  "service-worker.js": "/react-restaurant-finder/service-worker.js",
+  "static/css/2.c1042645.chunk.css.map": "/react-restaurant-finder/static/css/2.c1042645.chunk.css.map",
+  "static/css/main.87ab2ee5.chunk.css.map": "/react-restaurant-finder/static/css/main.87ab2ee5.chunk.css.map"
 }
